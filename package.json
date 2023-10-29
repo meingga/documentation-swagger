@@ -1,0 +1,24 @@
+{
+  "name": "documentation-swagger",
+  "version": "1.0.0",
+  "description": "documentation swagger node js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meingga/documentation-swagger.git"
+  },
+  "author": "FAHMIFAQIH.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meingga/documentation-swagger/issues"
+  },
+  "homepage": "https://github.com/meingga/documentation-swagger#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "swagger-ui-express": "^5.0.0"
+  }
+}

@@ -1,0 +1,14 @@
+node_modules/
+target/
+logs/
+*.pdf
+yarn.lock
+package-lock.json
+!pdf/.gitkeep
+sonar-project.properties
+.nyc_output/
+.scannerwork/
+coverage/
+configmap.yaml
+secret.yaml
+deployment.yaml
